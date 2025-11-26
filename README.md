@@ -1,4 +1,4 @@
-## (BOM)
+## BOM
 
 | Réf    | Composant                         | Valeur / Type              | Boîtier      |
 | ------ | --------------------------------- | -------------------------- | ------------ |
@@ -14,7 +14,7 @@
 | J1     | Header programmation ISP          | 2.54 mm                    | Through-hole |
 | J2     | Header alimentation               | 2.54 mm                    | Through-hole |
 
-## 🧷 Pinout
+## Pinout
 
 | Pin | Nom  | Fonction      |
 | --- | ---- | ------------- |
