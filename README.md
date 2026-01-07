@@ -1,3 +1,19 @@
+## Piscine électronique (42)
+
+Initiation intensive à l’électronique sur deux semaines, centrée sur la conception de cartes électroniques et la prise en main des bases du matériel.
+
+### Contenu
+
+- Conception de schémas et de PCB avec KiCad
+- Création de footprints et gestion des librairies
+- Routage de cartes électroniques
+- Bases de la soudure et de l’assemblage de composants
+
+### Contexte
+
+Piscine d’introduction à l’électronique au sein de l’école 42, orientée vers la compréhension du lien entre logiciel et matériel.
+
+
 ## BOM
 
 | Réf    | Composant                         | Valeur / Type              | Boîtier      |
